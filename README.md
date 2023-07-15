@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Health Insurance Registration Portal**
 
-- 🌱 I’m currently learning **Bootstrap, ReactJs & Advance Java**
+- 🌱 I’m currently learning **ReactJs & Advance Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthyakadam](https://github.com/parthyakadam)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL-MySQL, C Programming**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL-MySQL, Bootstrap C Programming**
 
 - 📫 How to reach me **parthvkadam531@gmail.com**
 
