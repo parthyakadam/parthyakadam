@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Health Insurance Registration Portal, Amazon Clone using React**
 
-- 🌱 I’m currently learning **ReactJs, Angular, Advance Java, Spring & Spring Boot**
+- 🌱 I’m currently learning **ReactJs, Angular & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthyakadam](https://github.com/parthyakadam)
 
