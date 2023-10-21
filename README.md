@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthyakadam&label=Profile%20views&color=0e75b6&style=flat" alt="parthyakadam" /> </p>
 
-- 🔭 I’m currently working on **Health Insurance Registration Portal, Amazon Clone using React**
+- 🔭 I’m currently working on **Health Insurance Registration Portal, Employee Management System**
 
-- 🌱 I’m currently learning **ReactJs, Angular & Spring Boot**
+- 🌱 I’m currently learning **Angular & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthyakadam](https://github.com/parthyakadam)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, SQL-MySQL, Bootstrap, C Programming**
+- 💬 Ask me about **Java, ReactJs, HTML, CSS, JavaScript, SQL-MySQL, Bootstrap, Tailwind CSS, C Programming**
 
 - 📫 How to reach me **parthvkadam531@gmail.com**
 
