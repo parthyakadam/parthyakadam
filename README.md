@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Health Insurance Registration Portal, Employee Management System**
 
-- 🌱 I’m currently learning **Angular & Spring Boot**
+- 🌱 I’m currently learning **Angular, Spring Boot & React MUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthyakadam](https://github.com/parthyakadam)
 
